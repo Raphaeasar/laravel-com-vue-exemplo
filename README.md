@@ -3,9 +3,6 @@ Projeto Pr√°tico de Laravel + JWT + Vue JS + Axios + Vuex + VueRouter + Boas Pr√
 
 Primeiro passo, clonar o projeto:
 
-# Clonar
-git clone https://github.com/carlosfgti/laravel-com-vue-exemplo.git
-
 # Acessar
 cd laravel-com-vue-exemplo
 
